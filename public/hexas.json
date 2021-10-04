@@ -1,0 +1,30 @@
+[
+    {
+      "Id": 1,
+      "Title": "IELTS-Preparation",
+      "Cost": "8200 BDT",
+      "Discription": "HEXAS IELTS Preparation Course is designed with our four course books which includes 25 classes with free Speakers Club, Listening Club, Reading Club, Writing Club and SAC. We also provide partial and mock tests with our course",
+      "img": "https://pbs.twimg.com/profile_images/680093093740163072/d6_BuMxM.png"
+    },
+    {
+      "Id": 2,
+      "Title": "IELTS LIFE SKILLS",
+      "Cost": "15,000 BDT",
+      "Discription": "We have been teaching IELTS LIFE SKILLS course with 100% success. Our full time experts are here to help with your LIFE SKILLS preparation for spouse visa",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNl-B2J7u6FhuYdszrTc9qXsr0oWf4o33RPw&usqp=CAU"
+    },
+    {
+      "Id": 3,
+      "Title": "Spoken English",
+      "Cost": "4500 BDT",
+      "Discription": "Hexas Spoken English Course This course has 24 classes with free Speakers Club and 3 Exams also Debate competition",
+      "img": "https://pbs.twimg.com/media/CXIX22yVAAAph9V.jpg"
+    },
+    {
+      "Id": 4,
+      "Title": "Fundamental of Computer",
+      "Cost": "2250 BDT",
+      "Discription": "This course will help you to have basic knowledge regarding computer that you certainly need either in academic or professional life",
+      "img": "https://pbs.twimg.com/media/CXA2XLcUwAAoVXn.jpg"
+    }
+  ]

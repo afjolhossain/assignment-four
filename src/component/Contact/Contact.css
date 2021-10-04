@@ -1,0 +1,12 @@
+.contact{
+    background-color: azure;
+    display: flex;
+}
+
+.UposhoreBranch{
+    margin: 10px;
+    height: 500px;
+    width:500px ;
+    font-size: medium;
+    font-weight: 700;
+}
